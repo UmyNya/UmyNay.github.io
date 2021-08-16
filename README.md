@@ -1,2 +1,2 @@
-# UmyNay.github.io
+# UmyNay.github.blog
 Just A Personal Blog
