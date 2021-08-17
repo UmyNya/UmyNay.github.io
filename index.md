@@ -1,6 +1,6 @@
 ## Welcome to UmyNya's GitHub Pages!!!
  
-*beacuse of some reasons, it's more convient for me to build my blog in issues instand of github-pages. sorry~ *
+*beacuse of some reasons, it's more convient for me to build my blog in issues instand of github-pages. sorry~*
 
 ---
 
