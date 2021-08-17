@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to UmyNya's GitHub Pages!!!
+ 
+*beacuse of some reasons, it's more convient for me to build my blog in issues instand of github-pages. sorry~ *
+
+---
 
 You can use the [editor on GitHub](https://github.com/UmyNya/UmyNay.github.blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
